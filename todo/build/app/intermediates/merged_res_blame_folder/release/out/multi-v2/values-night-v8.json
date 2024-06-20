@@ -1,28 +1,3 @@
-{
-    "logs": [
-        {
-            "outputFile": "com.example.todo.app-mergeReleaseResources-5:/values-night-v8/values-night-v8.xml",
-            "map": [
-                {
-                    "source": "C:\\My files\\Programming\\Android\\todo\\todo\\android\\app\\src\\main\\res\\values-night\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "175,831",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "482,997"
-                    },
-                    "to": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,236",
-                        "endLines": "5,8",
-                        "endColumns": "12,12",
-                        "endOffsets": "231,400"
-                    }
-                }
-            ]
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd2e73c1d68e66330ec2bc99dc99e945351e8759bfd1c543f9abf258d54d752e
+size 1027

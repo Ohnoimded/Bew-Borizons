@@ -1,6 +1,3 @@
-[
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/layout-v16/notification_template_custom_big.xml",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/layout-v16/notification_template_custom_big.xml"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a45b077a31e720527322ea277479e25a5a874d0920bcc156537ba33dc8c875e
+size 222

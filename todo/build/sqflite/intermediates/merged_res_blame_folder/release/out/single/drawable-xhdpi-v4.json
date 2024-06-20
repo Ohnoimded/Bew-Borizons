@@ -1,22 +1,3 @@
-[
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-xhdpi-v4/notification_bg_normal.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-xhdpi-v4/notification_bg_normal.9.png"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3adcc3219b48c2001f144ac7de58283370ca1c7a6d1771888c0119ee148db8e5
+size 1144

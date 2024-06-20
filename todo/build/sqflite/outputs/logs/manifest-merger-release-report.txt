@@ -1,25 +1,3 @@
--- Merging decision tree log ---
-manifest
-ADDED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml:1:1-3:12
-INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml:1:1-3:12
-INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml:1:1-3:12
-	package
-		ADDED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml:2:5-35
-		INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml:1:11-69
-uses-sdk
-INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-	android:targetSdkVersion
-		INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-		ADDED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-		ADDED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\AndroidManifest.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:7211cfd43cd3db85b47c1ff3f672fa02d419778a2f4cf1170421c59e58ed8b03
+size 2385

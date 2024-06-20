@@ -1,8 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/common_google_signin_btn_icon_light_normal_background" />
-    <item>
-        <bitmap android:src="@drawable/googleg_standard_color_18"
-                android:gravity="center" />
-    </item>
-</layer-list>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fdcb3ee1be846eede03a4ba61cb572e8456813f4ef67f33ad55eb6522c46716
+size 354

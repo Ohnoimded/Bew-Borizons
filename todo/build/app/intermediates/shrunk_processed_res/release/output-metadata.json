@@ -1,20 +1,3 @@
-{
-  "version": 3,
-  "artifactType": {
-    "type": "SHRUNK_PROCESSED_RES",
-    "kind": "Directory"
-  },
-  "applicationId": "com.example.todo",
-  "variantName": "release",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "attributes": [],
-      "versionCode": 1,
-      "versionName": "1.0.0",
-      "outputFile": "resources-release-stripped.ap_"
-    }
-  ],
-  "elementType": "File"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:26233f479bdd9d2c5d59c9da1a96772fece1f4a68050b74ea90d4269035e982a
+size 404

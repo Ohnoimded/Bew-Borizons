@@ -1,19 +1,3 @@
-{
-    "logs": [
-        {
-            "outputFile": "com.example.todo.app-mergeReleaseResources-5:/values-pt/values-pt.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\nived\\.gradle\\caches\\transforms-3\\df6334c9188aaa0e3c78c91a89b879e5\\transformed\\core-1.10.1\\res\\values-pt\\values-pt.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,152,254,353,453,560,670,790",
-                        "endColumns": "96,101,98,99,106,109,119,100",
-                        "endOffsets": "147,249,348,448,555,665,785,886"
-                    }
-                }
-            ]
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:450e744b4b840e0a4a9a6b264a6b39fc625c01db58a08a268033b6d03c85017b
+size 769

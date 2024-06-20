@@ -1,10 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package com.lyokone.location;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = false;
-  public static final String LIBRARY_PACKAGE_NAME = "com.lyokone.location";
-  public static final String BUILD_TYPE = "release";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:21c7ebd88d85d4db079aeaccfeefc3fe983cf477cc28f72831cfffca389f2de7
+size 295

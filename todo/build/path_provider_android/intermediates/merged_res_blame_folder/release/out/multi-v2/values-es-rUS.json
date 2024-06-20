@@ -1,34 +1,3 @@
-{
-    "logs": [
-        {
-            "outputFile": "io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-2:/values-es-rUS/values-es-rUS.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\nived\\.gradle\\caches\\transforms-3\\d8e1069914ecffa042ae7b0f2af5d093\\transformed\\core-1.6.0\\res\\values-es-rUS\\values-es-rUS.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "io.flutter.plugins.pathprovider.path_provider_android-merged_res-4:/values-es-rUS/values-es-rUS.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\nived\\.gradle\\caches\\transforms-3\\d8e1069914ecffa042ae7b0f2af5d093\\transformed\\core-1.6.0\\res\\values-es-rUS\\values-es-rUS.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:31547b69e50c1286d3f312520ba037bb26f5333f47c45448d9205ee68b4fcbdb
+size 1383

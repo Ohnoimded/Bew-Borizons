@@ -1,6 +1,3 @@
-[
-    {
-        "merged": "com.lyokone.location-merged_res-4:/drawable-v21/notification_action_background.xml",
-        "source": "com.lyokone.location-core-1.10.1-12:/drawable-v21/notification_action_background.xml"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:345025f01c6dd377eae4b2088bfb46d3ef7a18a755a41b122b2aca9a45a36394
+size 224

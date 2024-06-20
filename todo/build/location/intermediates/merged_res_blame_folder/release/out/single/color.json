@@ -1,14 +1,3 @@
-[
-    {
-        "merged": "com.lyokone.location-merged_res-4:/color/common_google_signin_btn_tint.xml",
-        "source": "com.lyokone.location-jetified-play-services-base-18.3.0-5:/color/common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "com.lyokone.location-merged_res-4:/color/common_google_signin_btn_text_dark.xml",
-        "source": "com.lyokone.location-jetified-play-services-base-18.3.0-5:/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "com.lyokone.location-merged_res-4:/color/common_google_signin_btn_text_light.xml",
-        "source": "com.lyokone.location-jetified-play-services-base-18.3.0-5:/color/common_google_signin_btn_text_light.xml"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:339bed8e2df103c28da14088d6b32d104cd93c785d8409e1ebe9fb3f21eb5c3a
+size 708

@@ -1,10 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package com.tekartik.sqflite;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = false;
-  public static final String LIBRARY_PACKAGE_NAME = "com.tekartik.sqflite";
-  public static final String BUILD_TYPE = "release";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:45fd9c5b559b82f2feff23bd8e2964a38bda273e1469ab3121dd4d8d2e3652b7
+size 295

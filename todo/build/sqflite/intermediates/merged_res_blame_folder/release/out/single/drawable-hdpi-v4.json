@@ -1,22 +1,3 @@
-[
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-hdpi-v4/notification_bg_low_normal.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-hdpi-v4/notification_bg_normal.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-hdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "com.tekartik.sqflite-merged_res-4:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "com.tekartik.sqflite-core-1.6.0-8:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:99f6c3c2bb0e0924426d484544390da2c4a4ffc63c2ae60ea02b217ac5dbf92d
+size 1134

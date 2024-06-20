@@ -1,10 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package io.flutter.plugins.pathprovider;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = false;
-  public static final String LIBRARY_PACKAGE_NAME = "io.flutter.plugins.pathprovider";
-  public static final String BUILD_TYPE = "release";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c1cbd9976c68363b3e027e7ed2e5ee0e814a44f995b5cbdde0bf28b64dd9f7
+size 317

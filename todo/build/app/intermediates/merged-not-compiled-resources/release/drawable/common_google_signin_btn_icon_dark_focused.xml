@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:left="1dp"
-          android:top="1dp"
-          android:right="1dp"
-          android:bottom="1dp">
-        <shape android:shape="rectangle">
-            <!-- Explicit transparent fill to avoid GB filling with the stroke colour -->
-            <solid android:color="@android:color/transparent" />
-            <stroke android:color="#FFC6DAFB"
-                    android:width="4dp" />
-        </shape>
-    </item>
-    <item android:drawable="@drawable/common_google_signin_btn_icon_dark_normal" />
-</layer-list>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d162c664344c66401e407053fdcc342e4978b37333d0877186f9b2f05750326
+size 643

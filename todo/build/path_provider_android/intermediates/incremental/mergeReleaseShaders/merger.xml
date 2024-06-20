@@ -1,2 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.5\android\src\main\shaders"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.5\android\src\release\shaders"/></dataSet></merger>
+version https://git-lfs.github.com/spec/v1
+oid sha256:735d21523fed5cf3eb3bf702d7c6c864f0abf7d0870fe59a6a69e11a30ac5792
+size 572

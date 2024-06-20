@@ -1,34 +1,3 @@
-{
-    "logs": [
-        {
-            "outputFile": "com.tekartik.sqflite-merged_res-4:/values-mr/values-mr.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\nived\\.gradle\\caches\\transforms-3\\d8e1069914ecffa042ae7b0f2af5d093\\transformed\\core-1.6.0\\res\\values-mr\\values-mr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "com.tekartik.sqflite-mergeReleaseResources-2:/values-mr/values-mr.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\nived\\.gradle\\caches\\transforms-3\\d8e1069914ecffa042ae7b0f2af5d093\\transformed\\core-1.6.0\\res\\values-mr\\values-mr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:540b82a9e8ab94052ca18d0fc96a0b069284d86c8dfc2afc5de5b7062359284f
+size 1285

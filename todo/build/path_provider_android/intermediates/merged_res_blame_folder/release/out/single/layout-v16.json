@@ -1,6 +1,3 @@
-[
-    {
-        "merged": "io.flutter.plugins.pathprovider.path_provider_android-merged_res-4:/layout-v16/notification_template_custom_big.xml",
-        "source": "io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-8:/layout-v16/notification_template_custom_big.xml"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a6827255651f4e7e69b891f86625c0d420ff32ad02c4a913b61d48a7edae7e8
+size 288

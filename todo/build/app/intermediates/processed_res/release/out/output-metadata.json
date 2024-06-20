@@ -1,20 +1,3 @@
-{
-  "version": 3,
-  "artifactType": {
-    "type": "PROCESSED_RES",
-    "kind": "Directory"
-  },
-  "applicationId": "com.example.todo",
-  "variantName": "release",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "attributes": [],
-      "versionCode": 1,
-      "versionName": "1.0.0",
-      "outputFile": "resources-release.ap_"
-    }
-  ],
-  "elementType": "File"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7603c342c21ec4a01ebb656d2fa2c528bf0a6c9ce2dda83c1fe49a7b4be6515
+size 388

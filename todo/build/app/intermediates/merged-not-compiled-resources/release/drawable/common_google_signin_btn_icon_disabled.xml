@@ -1,20 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:left="3dp"
-          android:top="3dp"
-          android:right="3dp"
-          android:bottom="3dp">
-        <shape android:shape="rectangle">
-            <solid android:color="#EBEBEB" />
-            <corners android:radius="2dp" />
-            <padding android:left="7dp"
-                     android:top="7dp"
-                     android:right="7dp"
-                     android:bottom="7dp" />
-        </shape>
-    </item>
-    <item>
-        <bitmap android:src="@drawable/googleg_disabled_color_18"
-                android:gravity="center" />
-    </item>
-</layer-list>
+version https://git-lfs.github.com/spec/v1
+oid sha256:50648f6bc26cc5aadeabf558491155fa666b681bd4fca44c16a1c3a2e3a8cb58
+size 704

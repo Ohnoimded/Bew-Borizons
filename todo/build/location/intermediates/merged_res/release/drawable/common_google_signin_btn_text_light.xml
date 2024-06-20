@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:state_enabled="false"
-        android:drawable="@drawable/common_google_signin_btn_text_disabled" />
-    <!-- Pressed state is handled by common_google_signin_btn_tint -->
-    <item
-        android:state_focused="true"
-        android:drawable="@drawable/common_google_signin_btn_text_light_focused" />
-    <item
-        android:drawable="@drawable/common_google_signin_btn_text_light_normal" />
-</selector>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eb00da032986d40004b8c114598f96fb076d7350b7190f9f2e26f468f600b58
+size 543

@@ -1,12 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package com.example.todo;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = false;
-  public static final String APPLICATION_ID = "com.example.todo";
-  public static final String BUILD_TYPE = "release";
-  public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0.0";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:403df57a83e7c409fe17d145752957ab054e1af8fbc7e6ad9ec7017986576c2c
+size 378

@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tekartik.sqflite" >
-
-    <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="16" />
-
-</manifest>
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e5202b3fdfda25e8a08c3c94786ac18ee60895584309bee873af269f172c350
+size 255

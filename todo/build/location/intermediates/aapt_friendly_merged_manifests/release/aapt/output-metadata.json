@@ -1,18 +1,3 @@
-{
-  "version": 3,
-  "artifactType": {
-    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
-    "kind": "Directory"
-  },
-  "applicationId": "com.lyokone.location",
-  "variantName": "release",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "attributes": [],
-      "outputFile": "AndroidManifest.xml"
-    }
-  ],
-  "elementType": "File"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:21a20d266171f6e7ae51d37182124e119faa48f6d95b551f06bfce8c8529ab26
+size 353

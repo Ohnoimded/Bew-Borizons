@@ -1,2 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\assets"/><source path="C:\My files\Programming\Android\todo\todo\build\sqflite\intermediates\shader_assets\release\out"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\release\assets"/></dataSet></merger>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2884cb75cf2d44bd8e6111f296f26f75ac31e01055e16b1d91b0fd4de181314f
+size 658

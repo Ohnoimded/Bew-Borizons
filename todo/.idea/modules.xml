@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/todo.iml" filepath="$PROJECT_DIR$/todo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/todo_android.iml" filepath="$PROJECT_DIR$/android/todo_android.iml" />
-    </modules>
-  </component>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93238c84112e21950341b04a190afc9d18292b9e85157fba8b6315953c237e9
+size 381
