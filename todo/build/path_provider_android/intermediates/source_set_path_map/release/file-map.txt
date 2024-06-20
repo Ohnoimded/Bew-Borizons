@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-pngs-0 C:\My files\Programming\Android\todo\todo\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-1 C:\My files\Programming\Android\todo\todo\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-2 C:\My files\Programming\Android\todo\todo\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-3 C:\My files\Programming\Android\todo\todo\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-4 C:\My files\Programming\Android\todo\todo\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-5 C:\My files\Programming\Android\todo\todo\build\path_provider_android\intermediates\merged_res\release
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-6 C:\Users\nived\.gradle\caches\transforms-3\6427700cb92eb405a126156e89b1d3ae\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-7 C:\Users\nived\.gradle\caches\transforms-3\6f00b6b68abb3054aa7b3488273e3d04\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-8 C:\Users\nived\.gradle\caches\transforms-3\a1118b19f3d9416b5ea59fa0177b9d46\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-9 C:\Users\nived\.gradle\caches\transforms-3\d8e1069914ecffa042ae7b0f2af5d093\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-main-10 C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.5\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-11 C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.5\android\src\release\res

@@ -1,0 +1,12 @@
+com.tekartik.sqflite-pngs-0 C:\My files\Programming\Android\todo\todo\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-1 C:\My files\Programming\Android\todo\todo\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-2 C:\My files\Programming\Android\todo\todo\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-3 C:\My files\Programming\Android\todo\todo\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-4 C:\My files\Programming\Android\todo\todo\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-5 C:\My files\Programming\Android\todo\todo\build\sqflite\intermediates\merged_res\release
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-6 C:\Users\nived\.gradle\caches\transforms-3\6427700cb92eb405a126156e89b1d3ae\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-7 C:\Users\nived\.gradle\caches\transforms-3\6f00b6b68abb3054aa7b3488273e3d04\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-8 C:\Users\nived\.gradle\caches\transforms-3\a1118b19f3d9416b5ea59fa0177b9d46\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-9 C:\Users\nived\.gradle\caches\transforms-3\d8e1069914ecffa042ae7b0f2af5d093\transformed\core-1.6.0\res
+com.tekartik.sqflite-main-10 C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\res
+com.tekartik.sqflite-release-11 C:\Users\nived\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\release\res
